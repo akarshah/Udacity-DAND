@@ -5,6 +5,12 @@ Within the framework of this project, I tried to assess whether the company shou
 - A/B test
 - Regression approach
 
+**Files**
+- `analyze_ab_test.ipynb`: The jupyter notebook containing code and analysis
+- `analyze_ab_test.html`: HTML conversion of the final document
+- `ab-data.csv`: Master user dataset of the company
+- `countries.csv`: User data recording patterns across multiple countries
+
 **Requirements**
 - Python 3.6 (or higher)
 - matplotlib 2.1 (or higher)
